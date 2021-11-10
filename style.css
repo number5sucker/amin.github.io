@@ -1,0 +1,16 @@
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #FF4646;
+}
+#Galery {
+	background-color: #FF4646;
+}
+ul {
+	list-style-type: none;
+}
+section {
+	padding-top: 5rem;
+}
+h1{
+	font-family: initial;
+}
